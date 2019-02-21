@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi Humans!
+
+Ezrealwi here,I like Python and Java.
